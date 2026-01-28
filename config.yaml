@@ -1,7 +1,11 @@
-baseURL: "https://jacobcornelius.com/"
+baseURL: "https://jacobcornelius.com"
 languageCode: "en-us"
 title: "Jacob Cornelius"
 theme: "stack"
 publishDir: "public"
-enableGitInfo: true
+
+params:
+  HomeIntro:
+    Title: "Welcome to my site"
+    Content: "Your custom homepage content here."
 
