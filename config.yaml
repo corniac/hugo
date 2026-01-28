@@ -1,0 +1,7 @@
+baseURL: "https://jacobcornelius.com/"
+languageCode: "en-us"
+title: "Jacob Cornelius"
+theme: "stack"
+publishDir: "public"
+enableGitInfo: true
+
